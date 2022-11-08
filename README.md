@@ -2,7 +2,12 @@
 
 ## FrontEnd Developer
 
-Some of my projects and ready-made test tasks
+
+## ReactJS projects
+- https://jossev.github.io/
+
+## Some of my projects and ready-made test tasks
+
 
 ### Languages and Tools
 ![Html](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=Html)
@@ -18,3 +23,4 @@ Some of my projects and ready-made test tasks
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/ivanklin)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ivanklin/)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=D24C41)](ivanklin24@gmail.com)
