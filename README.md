@@ -13,4 +13,4 @@ Some of my projects and ready-made test tasks
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=Photoshop)
