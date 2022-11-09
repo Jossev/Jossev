@@ -7,6 +7,9 @@
 - https://jossev.github.io/
 
 ## Some of my projects and ready-made test tasks
+- https://jossev.github.io/Starbucks/
+- https://jossev.github.io/RadialMenu/
+- https://jossev.github.io/LP1/
 
 
 ### Languages and Tools
